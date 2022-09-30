@@ -4,4 +4,5 @@
 Simple Python Script for Zip Multiple Txt in Ones Without duplicate
 
 ### Guide
+First 'pip install -r requirements.txt' to install modules
 Put All txt Files in Folder near Script and run
